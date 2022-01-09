@@ -10,7 +10,7 @@ class QSplineSeries;
 class QValueAxis;
 QT_CHARTS_END_NAMESPACE
 
-QT_CHARTS_USE_NAMESPACE
+QT_CHARTS_USE_NAMESPACE    //use QChart need this marco
 
 
 class MyChart : public QChart
